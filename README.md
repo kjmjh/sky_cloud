@@ -1,5 +1,5 @@
-<h1 align:"center">sky cloud</h1>
-<p align:"center">天云操作系统</p>
+<h1 align="center">sky cloud</h1>
+<p align="center">天云操作系统</p>
 
 简体中文 | [English](./readme_en.md)
 
